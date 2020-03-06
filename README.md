@@ -1,2 +1,2 @@
-# -H-O-W-D-Y
+ H O W D Y
 howdy
